@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Students xmlns="XMLjdomWriter.java">
+  <Student id="34">
+    <age>19</age>
+    <name>ivan</name>
+    <language>english</language>
+  </Student>
+  <Student id="32">
+    <age>55</age>
+    <name>jo</name>
+    <language>java</language>
+  </Student>
+</Students>
